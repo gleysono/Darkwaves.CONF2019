@@ -2,6 +2,9 @@ body {
     background-image: url("../images/hero-image.jpg");
     background-attachment:fixed;
     background-size:auto;
+    background-repeat: no-repeat;
+    background-color: #000;
+    background-size: 100%;
     background-position: center;
     justify-content: center;
     height: auto;
