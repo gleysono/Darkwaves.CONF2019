@@ -81,6 +81,9 @@ footer {
         text-decoration: none;
     }
     .footer-copyright {
-    padding: 15px 0 15px 0;
-
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        padding: 15px 0 15px 0;
+        background: #343a40;
     }
