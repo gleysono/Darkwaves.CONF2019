@@ -66,6 +66,7 @@ text-align: center;
 footer {
     background-color: #272727;
     color: white;
+    padding-bottom: 130px;
     }
     footer ul {
     list-style: none;
